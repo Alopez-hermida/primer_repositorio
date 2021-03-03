@@ -1,2 +1,2 @@
-# primer_repositorio
-Repositorio de prueba
+# Este es mi repositorio de prueba
+Prueba1
